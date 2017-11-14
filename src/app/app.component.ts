@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'app';
+  video: string = "https://www.youtube.com/embed/Ckom3gf57Yw"
+
 }
